@@ -1,0 +1,78 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Basic Tee",
+        "imageUrl": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "description": "Front of men's Basic Tee in black.",
+        "price": "35",
+        "category": "Black",
+        "discount": 2
+      },
+      {
+        "id": 2,
+        "name": "Stranger Things Birthday Party Invitation",
+        "imageUrl": "Stranger-Things-Birthday-Party-Invitation.webp",
+        "description": "Front of men's Basic Tee in black.",
+        "price": "35",
+        "category": "Black",
+        "discount": 2
+      },
+      {
+        "id": 3,
+        "name": "Basic Tee",
+        
+        "imageUrl": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "description": "Front of men's Basic Tee in black.",
+        "price": "35",
+        "category": "Black",
+        "discount": 3
+      },
+      {
+        "id": 4,
+        "name": "Super Mario Bros Movie Birthday Invitation",
+        
+        "imageUrl": "Super-Mario-Bros-Movie-Birthday-Invitation.webp",
+        "description": "Front of men's Basic Tee in black.",
+        "price": "35",
+        "category": "Black",
+        "discount": 9
+      },
+      {
+        "id": 5,
+        "name": "Rainbow High Birthday",
+        "imageUrl": "Rainbow-High-Birthday-Video-Invitation-Animated.webp",
+        "description": "Front of men's Basic Tee in black.",
+        "price": "35",
+        "category": "Black",
+        "discount": 8
+      },
+      {
+        "id": 6,
+        "name": "Basic Tee",
+        "imageUrl": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "description": "Front of men's Basic Tee in black.",
+        "price": "35",
+        "category": "Black",
+        "discount": 5
+      },
+      {
+        "id": 7,
+        "name": "Rugrats Twins Birthday Invitation",
+        "imageUrl": "./Rugrats-Twins-Birthday-Invitation.webp",
+        "description": "Front of men's Basic Tee in black.",
+        "price": "35",
+        "category": "Black",
+        "discount": 7
+      },
+      {
+        "id": 8,
+        "name": "Basic Tee",
+        "imageUrl": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "description": "Front of men's Basic Tee in black.",
+        "price": "35",
+        "category": "Black",
+        "discount": 6
+      }
+    ]
+}

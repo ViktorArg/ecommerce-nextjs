@@ -1,0 +1,11 @@
+- Delivery method Cards en Checkout
+- Empty State en Checkout
+- Empty State en MarketPlace
+- Paginado en MarketPlace
+- WhishList
+- Add to the bag required fields
+Done - Filtro inicial en Products Nav Bar
+Done - Boton Add solo redirecciona en MarketPlace
+Done - Hover en seleccion de categoria en MarketPlace
+Done - Limpieza de filtro con doble seleccion de categoria en MarketPlace
+Done - Footer mejorado
